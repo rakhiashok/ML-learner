@@ -1,2 +1,2 @@
 # ML-learner
-This repository contains my day to day leaning activities
+This repository contains my day today learning activities
